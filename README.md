@@ -1,7 +1,9 @@
 # hello-artem
 
 ![Github Cl/CD](https://img.shields.io/github/workflow/status/evt/rest-api-example/Go) 
-![Go Reportl(https://goreportcard.com/badge/github.com/evt/rest-api-example) ![Repository Top Languagenhttps://img.shields.io/github/languages/top/evt/rest-api-example) ![Scrutinizer Code Quality((https://img.shields.io/scrutinizer/guality/g/evt/rest-api-example/mair 
+![Go Reportl(https://goreportcard.com/badge/github.com/evt/rest-api-example) 
+![Repository Top Languagenhttps://img.shields.io/github/languages/top/evt/rest-api-example) 
+![Scrutinizer Code Quality((https://img.shields.io/scrutinizer/guality/g/evt/rest-api-example/mair 
 ![GitHub  go.mod Go version((https://img.shields.io/github/go-mod/go-version/evt/rest-api-example) 
 ![Codacy Grade]_(https://img.shields.io/codacy/grade/c9467ed47e064b1981e53862d0286d65) 
 !Withub Repository Size)(https://img.shields.io/github/repo-size/evt/rest-api-example) 
